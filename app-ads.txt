@@ -1,0 +1,2 @@
+# app-ads.txt for apps by samaybachao (TeerPath)
+google.com, pub-7394787815347252, DIRECT, f08c47fec0942fa0
